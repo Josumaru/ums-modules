@@ -1,0 +1,33 @@
+14 Sept 2023
+
+OS
+
+
+Sistem komputer = OS ada di komputer komputer sebagia wadahnya
+OS sebagai media komunikasi
+
+Blissmerr: Komputer adalah suatu alat electronik yang mampu melakukan bebrapa tugas yaitu menerima input memproses dan mengeluarkan otput dalam sebuah informasi
+
+
+komputer adlah peralatan electromik yang dapat menerima input, mengolah in
+
+struktur komputer 
+
+RAM
+ROM
+
+Sementara >> hanya menyimpan ketika ada tegangan listrik
+ROM >> <<
+Volatil >> Sementara
+Non Volatil >> <<
+
+
+Perangkat IO
+
+
+
+System Operasi
+1. Windows
+2. DLL
+
+
