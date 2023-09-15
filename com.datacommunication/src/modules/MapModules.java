@@ -113,16 +113,22 @@ public class MapModules {
 
                         Model Komunikasi:
                             Data ditransimikan berupa bit stream g(t) berbasis waktu karena tidak memadai
-                            maka sinyal berupa analog (source >> s(t) -- receiver r(t))
+                            maka sinyal berupa analog 
+                            Source >> s(t)
+                            Receiver >> r(t))
 
-                        Tranmition Medium
-                        Ada 2 kable dan udara
+                        Transmition Medium
+                        Ada 2 jenis kable dan udara
                             1. Ada Hybrid FO dan Wireless
                                 --  Local Wireless dan keluar pakai FO
                                 --  Tembaga yang dibagkitakn adalah 5 volt
                                 --  Wireless tidak tahan noise
 
                         Networking
+                        Pertumbuhan jumlah & kekuatan komputer mendorong kebutuhan akan interkoneksi juga melihat
+                        integrasi pesat teknologi suara, data, gambar & video dua kategori besar jaringan komunikasi:
+                            1.  Jaringan Area Lokal (LAN)
+                            2.  Jaringan Area Luas (WAN)
 
                         Circuit Swithing
                             --  Rangkaian yang sedang berkomunikasi/ rangkaian secara fisik yang terhubung
