@@ -41,27 +41,23 @@ public class App {
                             1.  System Bus
                             2.  ALU
                             3.  Perangkat I/O
+                                Input   :   1. Keyboard
+                                            2. Mouse
+                                            3. Scanner
+                                            4. Camera
+                                            5. Joystick
+
+                                Output  :   1. Printer
+                                            2. Monitor
+                                            3. LCD Projector
+                                            4. Hologram
+                                            5. Speaker
                             4.  Memory:
                                 a.  RAM >> Random Access Memory >> Menyimpan data sementara
                                 b.  ROM >> Read Access Memory >> Menyimpan data secara Non Volatil
                         
                         Sementara (Volatil) >> Hanya menyimpan ketika ada tegangan listrik >> RAM
                         Tidak Sementara (Non Volatil) >> Dapat menyimpan walaupun tidak ada sinyal listrik >> ROM
-                        
-                        
-                        Perangkat IO
-                            Input   :   1. Keyboard
-                                        2. Mouse
-                                        3. Scanner
-                                        4. Camera
-                                        5. Joystick
-
-                            Output  :   1. Printer
-                                        2. Monitor
-                                        3. LCD Projector
-                                        4. Hologram
-                                        5. Speaker
-                        
                         
                         System Operasi :
                             1. Windows
