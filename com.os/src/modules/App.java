@@ -53,11 +53,10 @@ public class App {
                                             4. Hologram
                                             5. Speaker
                             4.  Memory:
-                                a.  RAM >> Random Access Memory >> Menyimpan data sementara
-                                b.  ROM >> Read Access Memory >> Menyimpan data secara Non Volatil
-                        
-                        Sementara (Volatil) >> Hanya menyimpan ketika ada tegangan listrik >> RAM
-                        Tidak Sementara (Non Volatil) >> Dapat menyimpan walaupun tidak ada sinyal listrik >> ROM
+                                a.  RAM >>  Random Access Memory >> Menyimpan data sementara
+                                            Sementara (Volatil) >> Hanya menyimpan ketika ada tegangan listrik >> RAM
+                                b.  ROM >>  Read Access Memory >> Menyimpan data secara Non Volatil
+                                            Tidak Sementara (Non Volatil) >> Dapat menyimpan walaupun tidak ada sinyal listrik >> ROM
                         
                         System Operasi :
                             1. Windows
