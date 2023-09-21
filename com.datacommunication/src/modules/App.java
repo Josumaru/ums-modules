@@ -410,9 +410,9 @@ public class App {
                                     Kapasitas Kanal
                                         Kecepatan data maksimum yang mungkin pada saluran komunikasi
                                         Adalah fungsi dari
-                                        --  data rate - dalam bits per second
-                                        --  bandwidth - dalam cycles per second or Hertz
-                                        --  noise - pada link komunikasi
+                                            --  data rate - dalam bits per second
+                                            --  bandwidth - dalam cycles per second or Hertz
+                                            --  noise - pada link komunikasi
                                         error rate - dari bit yang rusak
                                         keterbatasan karena sifat fisik
                                         menginginkan penggunaan kapasitas yang paling efisien
@@ -436,14 +436,14 @@ public class App {
                                             --  Data rate yang lebih cepat mempersingkat setiap bit sehingga “semburan” nois memengaruhi lebih banyak bit
                                                 diberikan noise level, kecepatan yang lebih tinggi berarti kesalahan yang lebih tinggi
                                             --  Shannon mengembangkan formula yang
-                                            menghubungkannya dengan rasio sinyal terhadap noise
+                                                menghubungkannya dengan rasio sinyal terhadap noise
                                             (Signal to Noise Ratio) (dalam desibel)
                                             a.  SNRdb = 10 log10 (signal/noise)
                                                 saat SNRdb rendah maka noise tinggi
                                             b.  Capacity C=B log2
                                                 (1+SNR)
-                                            --  Kapasitas maksimum teoritis
-                                            --  Semakin rendah dalam praktek
+                                                --  Kapasitas maksimum teoritis
+                                                --  Semakin rendah dalam praktek
                                                         """));
 
         for (int i = 1; i <= modules.size(); i++) {
