@@ -312,17 +312,17 @@ public class App {
                             --  Range frekuensi dapat dibatasi untuk kanal voice 300-3400 Hz.
                             --  Gelombang getar >> Electromagnetik
                             Sinyal Video
-                                 USA - 483 baris per frame, pada frame per detik
-                                 memiliki 525 garis tetapi 42 hilang selama
-                                penelusuran vertikal
-                                 525 lines x 30 scans = 15750 baris per detik
-                                 63.5s per baris
-                                 11s for retrace, so 52.5 s per video baris
-                                 frekuensi maksimum jika garis bergantian hitam
-                                dan putih
-                                 resolusi horizontal sekitar 450 garis memberikan
-                                225 cycle gelombang dalam 52,5  s
-                                 frekuensi maksimum 4.2MHz
+                                1.  USA - 483 baris per frame, pada frame per detik
+                                    memiliki 525 garis tetapi 42 hilang selama
+                                    penelusuran vertikal
+                                2.  525 lines x 30 scans = 15750 baris per detik
+                                    63.5s per baris
+                                    11s for retrace, so 52.5 s per video baris
+                                3.  frekuensi maksimum jika garis bergantian hitam
+                                    dan putih
+                                    resolusi horizontal sekitar 450 garis memberikan
+                                    225 cycle gelombang dalam 52,5  s
+                                4.  frekuensi maksimum 4.2MHz
                             Data Digital
                                 --  Seperti yang dihasilkan oleh komputer dll
                                 --  Mempunyai dua komponen DC
